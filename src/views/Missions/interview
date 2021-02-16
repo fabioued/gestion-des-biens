@@ -1,0 +1,70 @@
+<ul><li class="dropdownOption   hovered" role="option" aria-selected="false" id="option_0_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Full Time</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_1_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Part Time</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_2_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Temporary</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_3_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Contract</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_4_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Intern</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_5_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Seasonal</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_6_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Self Employed</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_7_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Per diem</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_8_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Reserve</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_9_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Freelance</span></li><li class="dropdownOption   " role="option" aria-selected="false" id="option_10_employmentStatusId"><div class="checkmark"><span alt="" class="SVGInline"><svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M9.89 15.76l-2.64-2.363a.793.793 0 010-1.157.884.884 0 011.211 0l2.039 1.785 5.039-5.785a.884.884 0 011.21 0 .793.793 0 010 1.157L11.1 15.76a.884.884 0 01-1.21 0z" fill="currentColor" fill-rule="evenodd"></path></svg></span></div><span class="dropdownOptionLabel">Apprentice</span></li></ul>
+
+
+
+
+
+
+Aucune offre d'embauche
+Expérience positive
+Difficulté moyenne
+Candidature
+J'ai postulé en ligne. J'ai passé un entretien à Google en janvier 2021.
+
+Entretien
+Interviewed in Jan 2021, Round 1 had 2 parts -- Technical RRK & General Cognitive Ability (GCA). Technical 1 hour and GCA 45 mins. Interviewed in two different days for each part.
+
+Questions d'entretien d'embauche
+Web Tech:
+
+1) what is REST API?
+
+2) how a REST API call is handled?
+
+3) what are REST methods? how are they used?
+
+4) different part of HTTP request?
+
+5) command line - curl, wget usage?
+
+6) troubleshoot:
+typed url - example.com
+a) site can't be reached
+b) unable to resolve hostname
+c) host unreachable
+
+Programming:
+
+string traversal -- encode a string so the output has repeated letter counts for repeated letters and letter itself once (aab --> 2ab)   …  href="/Entretien/Web-Tech-1-what-is-REST-API-2-how-a-REST-API-call-is-handled-3-what-are-REST-methods-how-are-they-used-4-diffe-QTN_4118259.htm" class="questionResponse">Répondre à cette question
+
+
+
+Round 1:
+1. Why would a website be slow?
+2. How can you improve a slow website?
+3. Explain a two-way handshake?
+4. public key vs private key
+5. what public key encryption? Explain as detailed as possible?
+6. What is the cryptography algorithm used in public-key encryption? How does that algorithm work?
+7. what are the REST principles?
+8. Error codes - how to troubleshoot 404 error
+9. How would you increase the customer base of a company?
+10. Demanding problem you solved.
+Round 2:
+1. Why google CTR?
+2. If you worked with an existing client requesting a feature addition, what would your next steps be?
+3. How do you stay organized?
+
+
+4 Interviews total ~30 min - 1 hr each. First 2 included a cognitive ability and a technical interview covering web technologies and an area of expertise (programming, databases, or infrastructure/Systems Admin). Second 2 included leadership/googleyness and customer service/project management.
+
+All interviews included many multiple part questions to find out your thought process. Both behavioral (tell me a time when...) and hypothetical questions were asked. For the technical interview expertise section I chose databases and it consisted of writing SQL queries for a simple schema. For the web technologies portion, the packet and resources they sent beforehand prepared me.
+
+All interviewers were so nice and gave time for questions afterwords which was extremely helpful!
+
+
+
+
+Questions d'entretien d'embauche
+How would you access a file on the moon from earth? Think of as many way of accessing that file
+
